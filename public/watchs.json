@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Rolex Submariner",
+      "price": 8500
+    },
+    {
+      "id": 2,
+      "name": "Omega Speedmaster Professional",
+      "price": 5200
+    },
+    {
+      "id": 3,
+      "name": "Seiko Presage Cocktail Time",
+      "price": 450
+    },
+    {
+      "id": 4,
+      "name": "Tag Heuer Carrera",
+      "price": 3500
+    },
+    {
+      "id": 5,
+      "name": "Citizen Eco-Drive",
+      "price": 250
+    }
+  ]
+  
